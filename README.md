@@ -27,6 +27,6 @@ This project implements the classic BreakOut game where the player controls a pa
 
 ## Installation
 
-1. Clone the repository: `git clone :    https://github.com/Arun7871/breakout-game/edit/main/
+1. Clone the repository: `git clone :  https://github.com/Arun7871/breakout-game/
 2. Install Pygame: `pip install pygame`
 3. Run the game: `python breakout_game.py`
